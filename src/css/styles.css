@@ -786,17 +786,11 @@ p {
 /* Modal Body */
 .modal-body {padding: 2px 16px;}
 
-/* Modal Footer */
-.modal-footer {
-  padding: 2px 16px;
-  background-color: #5cb85c;
-  color: white;
-}
 
 /* Modal Content */
 .modal-content {
   position: relative;
-  background-color: #000000;
+  background-color: #fcf9ff;
   margin: auto;
   padding: 0;
   border: 1px solid rgb(0, 0, 0);
@@ -809,10 +803,20 @@ p {
 #modal_text
 {
   margin-top: 0%;
-  color: #ffffff;
-  font-weight: normal;
+  color: #1a1919;
+  font-weight: lighter;
   font: Fira Sans;
 }
+#modal_text_bold
+{ 
+  
+  margin-top: 0%;
+  color: #000000;
+  font-size: large;
+  font-weight: bold;
+  font: Fira Sans;
+}
+
 
 #modal_image
 {

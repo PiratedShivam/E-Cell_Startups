@@ -767,7 +767,7 @@ p {
 /*------------Model Working-----------*/
 
 .close {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   margin-left: 95%;
   float: right;
   padding-left: 0%;
@@ -778,7 +778,7 @@ p {
 
 .close:hover,
 .close:focus {
-  color: rgb(247, 125, 125);
+  color: rgb(175, 6, 6);
   text-decoration: none;
   cursor: pointer;
 }
